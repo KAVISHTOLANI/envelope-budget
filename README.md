@@ -2,7 +2,7 @@
 
 Envelope budgeting in the browser: record income, assign it to named envelopes each month, log spending against them, carry balances forward where it makes sense, and move money when plans change. An organisation tool, not financial advice.
 
-**Live demo:** [https://envelope-budget-eight.vercel.app/](https://envelope-budget-eight.vercel.app/) — runs entirely in your browser; demo data is fictional and labelled.
+**Live demo:** [https://envelope-planner.vercel.app/](https://envelope-planner.vercel.app/) — runs entirely in your browser; demo data is fictional and labelled.
 
 ![Landing with this month’s envelopes](docs/landing.png)
 
